@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eO7WoTidDE4FvojPvd7Po8wXwNlsyzkRti7HKxYjAEyFx4PI5vA1jJX8nnRIuUpV26IZvVCSVkkhIR6Sb2fLoA==",
+  "dgSpecHash": "aN5cQi57GtrEUVB1XyqX5TZUq+w7vBWbMVgQuHLNyj0yFLw10HdJtokzsyINR2N3GNP/QnsIF10bR3Lzg+Zspg==",
   "success": true,
   "projectFilePath": "C:\\Users\\leoch\\Desktop\\Git Clone\\mycellstore\\mycellstore.csproj",
   "expectedPackageFiles": [
@@ -84,6 +84,8 @@
     "C:\\Users\\leoch\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\leoch\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\leoch\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\leoch\\.nuget\\packages\\npgsql\\6.0.6\\npgsql.6.0.6.nupkg.sha512",
+    "C:\\Users\\leoch\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\6.0.6\\npgsql.entityframeworkcore.postgresql.6.0.6.nupkg.sha512",
     "C:\\Users\\leoch\\.nuget\\packages\\nuget.common\\6.2.1\\nuget.common.6.2.1.nupkg.sha512",
     "C:\\Users\\leoch\\.nuget\\packages\\nuget.configuration\\6.2.1\\nuget.configuration.6.2.1.nupkg.sha512",
     "C:\\Users\\leoch\\.nuget\\packages\\nuget.dependencyresolver.core\\5.11.0\\nuget.dependencyresolver.core.5.11.0.nupkg.sha512",

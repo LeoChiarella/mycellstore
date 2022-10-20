@@ -290,3 +290,5 @@ C:\Users\leoch\Desktop\Git Clone\mycellstore\obj\Debug\net6.0\refint\mycellstore
 C:\Users\leoch\Desktop\Git Clone\mycellstore\obj\Debug\net6.0\mycellstore.pdb
 C:\Users\leoch\Desktop\Git Clone\mycellstore\obj\Debug\net6.0\mycellstore.genruntimeconfig.cache
 C:\Users\leoch\Desktop\Git Clone\mycellstore\obj\Debug\net6.0\ref\mycellstore.dll
+C:\Users\leoch\Desktop\Git Clone\mycellstore\bin\Debug\net6.0\Npgsql.dll
+C:\Users\leoch\Desktop\Git Clone\mycellstore\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
