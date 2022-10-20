@@ -63,6 +63,8 @@ C:\Users\leoch\Desktop\Git Clone\mycellstore\bin\Debug\net6.0\Microsoft.VisualSt
 C:\Users\leoch\Desktop\Git Clone\mycellstore\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\leoch\Desktop\Git Clone\mycellstore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\leoch\Desktop\Git Clone\mycellstore\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\leoch\Desktop\Git Clone\mycellstore\bin\Debug\net6.0\Npgsql.dll
+C:\Users\leoch\Desktop\Git Clone\mycellstore\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\leoch\Desktop\Git Clone\mycellstore\bin\Debug\net6.0\NuGet.Common.dll
 C:\Users\leoch\Desktop\Git Clone\mycellstore\bin\Debug\net6.0\NuGet.Configuration.dll
 C:\Users\leoch\Desktop\Git Clone\mycellstore\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
@@ -290,5 +292,3 @@ C:\Users\leoch\Desktop\Git Clone\mycellstore\obj\Debug\net6.0\refint\mycellstore
 C:\Users\leoch\Desktop\Git Clone\mycellstore\obj\Debug\net6.0\mycellstore.pdb
 C:\Users\leoch\Desktop\Git Clone\mycellstore\obj\Debug\net6.0\mycellstore.genruntimeconfig.cache
 C:\Users\leoch\Desktop\Git Clone\mycellstore\obj\Debug\net6.0\ref\mycellstore.dll
-C:\Users\leoch\Desktop\Git Clone\mycellstore\bin\Debug\net6.0\Npgsql.dll
-C:\Users\leoch\Desktop\Git Clone\mycellstore\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
