@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Xi2PMwPDx2yugqtCmedAXuHajVXAuWggRPkTRUma4ZQ=",
+  "Hash": "XagnVmRWOaDhnsXjjMtI1dqWTCZUXo8GoeKDwP7Ty3I=",
   "Source": "mycellstore",
   "BasePath": "_content/mycellstore",
   "Mode": "Default",
@@ -1103,6 +1103,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\leoch\\Desktop\\Git Clone\\mycellstore\\wwwroot\\img\\Galaxy S22 Ultra.jpg",
+      "SourceId": "mycellstore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\leoch\\Desktop\\Git Clone\\mycellstore\\wwwroot\\",
+      "BasePath": "_content/mycellstore",
+      "RelativePath": "img/Galaxy S22 Ultra.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Galaxy S22 Ultra.jpg"
     },
     {
       "Identity": "C:\\Users\\leoch\\Desktop\\Git Clone\\mycellstore\\wwwroot\\js\\site.js",
