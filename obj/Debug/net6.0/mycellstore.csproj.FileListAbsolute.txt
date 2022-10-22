@@ -292,3 +292,8 @@ C:\Users\leoch\Desktop\Git Clone\mycellstore\obj\Debug\net6.0\refint\mycellstore
 C:\Users\leoch\Desktop\Git Clone\mycellstore\obj\Debug\net6.0\mycellstore.pdb
 C:\Users\leoch\Desktop\Git Clone\mycellstore\obj\Debug\net6.0\mycellstore.genruntimeconfig.cache
 C:\Users\leoch\Desktop\Git Clone\mycellstore\obj\Debug\net6.0\ref\mycellstore.dll
+C:\Users\leoch\Desktop\Git Clone\mycellstore\bin\Debug\net6.0\out\web.config
+C:\Users\leoch\Desktop\Git Clone\mycellstore\bin\Debug\net6.0\out\appsettings.Development.json
+C:\Users\leoch\Desktop\Git Clone\mycellstore\bin\Debug\net6.0\out\appsettings.json
+C:\Users\leoch\Desktop\Git Clone\mycellstore\bin\Debug\net6.0\out\mycellstore.deps.json
+C:\Users\leoch\Desktop\Git Clone\mycellstore\bin\Debug\net6.0\out\mycellstore.runtimeconfig.json
