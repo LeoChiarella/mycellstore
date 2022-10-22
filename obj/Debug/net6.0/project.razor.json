@@ -16318,6 +16318,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\leoch\\Desktop\\Git Clone\\mycellstore\\Views\\Catalogo\\Detalle.cshtml",
+      "TargetPath": "Views\\Catalogo\\Detalle.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\leoch\\Desktop\\Git Clone\\mycellstore\\Views\\Catalogo\\Index.cshtml",
       "TargetPath": "Views\\Catalogo\\Index.cshtml",
       "FileKind": "mvc"

@@ -4,8 +4,11 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using mycellstore.Data;
+using mycellstore.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
+
 
 namespace mycellstore.Controllers
 {
@@ -23,14 +26,23 @@ namespace mycellstore.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index(string? searchString)
+    public async Task<IActionResult> Index(string? searchString)
+        
         {
             var productos = from o in _context.DataProductos select o;
             if(!String.IsNullOrEmpty(searchString)){
                 productos = productos.Where(s => s.Name.Contains(searchString));
             }
 
-            return View(productos.ToList());
+            return View(await productos.ToListAsync());
+        }
+
+        public async Task<IActionResult> Detalle(int? id){
+            Producto objProduct = await _context.DataProductos.FindAsync(id);
+            if(objProduct == null){
+                return NotFound();
+            }
+            return View(objProduct);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
